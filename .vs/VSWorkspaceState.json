@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\surprise",
+    "\\tests"
   ],
-  "SelectedNode": "\\requirements_dev.txt",
+  "SelectedNode": "\\tests\\test_dump.py",
   "PreviewInSolutionExplorer": false
 }
